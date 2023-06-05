@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ok">Ee</string>
+    <string name="No">Hai</string>
+    <string name="dialogMessage">nikho toda u vhona vidio itevhelaho ngaha u tamba gaimi iyi</string>
+    <string name="enterName">pangani dzina</string>
+    <string name="wait">lindelani mungana atshi joina ni kone u putedza pulayi</string>
+    <string name="startGame">puleyi</string>
+    <string name="connect">dzhoinani server</string>
+    <string name="winner">ndi ene o winaho</string>
+    <string name="its">ndi</string>
+    <string name="turn">ane aco tamba</string>
+    <string name="enterServer">dzhenisani server address</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Qwirkle</string>
+    <string name="Ok">Ok</string>
+    <string name="No">No</string>
+    <string name="dialogMessage">Watch video on how to play game</string>
+    <string name="enterName">Enter name</string>
+    <string name="wait">Wait for friends to join then press play</string>
+    <string name="startGame">Play</string>
+    <string name="connect">Join Server</string>
+    <string name="points" translatable="false">points</string>
+    <string name="winner">is the WINNER!</string>
+    <string name="its">its</string>
+    <string name="turn">turn</string>
+    <string name="enterServer">Enter server address</string>
+</resources>
